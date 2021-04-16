@@ -102,5 +102,3 @@ def reset():
 
 if __name__ == "__main__":
     print(reset())
-#reset.txt
-#Displaying reset.txt.
